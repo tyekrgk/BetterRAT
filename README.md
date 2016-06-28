@@ -9,6 +9,7 @@ BetterRAT is InfinityRAT(DiamondRAT) Based Next Generation RAT
 * Remote TaskManager
 * Remote Script
 
+# License
 The MIT License (MIT)
 Copyright (c) 2016 ZeroWorm
 
